@@ -1,4 +1,6 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "mitigation_cb": "mitigation_cb",
+  "mitigation_sectoralcbs": "mitigation_sectoralcbs",
+  "mitigation_cb2024-450mt": "Mitigation 450 mt",
+  "mitigation_cb2024-350mt": "Mitigation 350 mt"
 }
