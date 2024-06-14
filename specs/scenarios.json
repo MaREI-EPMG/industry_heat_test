@@ -1,18 +1,9 @@
 [
   {
-    "name": "mitigation_cb",
+    "name": "mitigation_cb2024-300mt",
     "variants": [
       {
-        "name": "mitigation_cb",
-        "specs": null
-      }
-    ]
-  },
-  {
-    "name": "mitigation_sectoralcbs",
-    "variants": [
-      {
-        "name": "mitigation_sectoralcbs",
+        "name": "mitigation_cb2024-300mt",
         "specs": null
       }
     ]
@@ -27,10 +18,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-450mt",
+    "name": "mitigation_cb2024-400mt",
     "variants": [
       {
-        "name": "mitigation_cb2024-450mt",
+        "name": "mitigation_cb2024-400mt",
         "specs": null
       }
     ]
