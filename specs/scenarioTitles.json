@@ -1,6 +1,5 @@
 {
-  "mitigation_cb": "mitigation_cb",
-  "mitigation_sectoralcbs": "mitigation_sectoralcbs",
-  "mitigation_cb2024-450mt": "Mitigation 450 mt",
+  "mitigation_cb2024-300mt": "Mitigation 300 mt",
+  "mitigation_cb2024-400mt": "Mitigation 400 mt",
   "mitigation_cb2024-350mt": "Mitigation 350 mt"
 }
