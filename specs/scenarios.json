@@ -25,5 +25,32 @@
         "specs": null
       }
     ]
+  },
+  {
+    "name": "mitigation_cb2024-300mt-nobio",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-300mt-nobio",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-350mt-nobio",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-350mt-nobio",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-400mt-nobio",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-400mt-nobio",
+        "specs": null
+      }
+    ]
   }
 ]

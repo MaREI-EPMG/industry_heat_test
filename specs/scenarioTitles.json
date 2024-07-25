@@ -1,5 +1,8 @@
 {
   "mitigation_cb2024-300mt": "Mitigation 300 mt",
   "mitigation_cb2024-400mt": "Mitigation 400 mt",
-  "mitigation_cb2024-350mt": "Mitigation 350 mt"
+  "mitigation_cb2024-350mt": "Mitigation 350 mt",
+  "mitigation_cb2024-300mt-nobio": "Mitigation 300 mt -nobio",
+  "mitigation_cb2024-400mt-nobio": "Mitigation 400 mt -nobio",
+  "mitigation_cb2024-350mt-nobio": "Mitigation 350 mt -nobio"
 }
