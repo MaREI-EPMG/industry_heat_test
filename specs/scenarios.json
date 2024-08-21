@@ -142,5 +142,41 @@
         "specs": null
       }
     ]
+  },
+  {
+    "name": "mitigation_cb2024-300mt-LED",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-300mt-LED",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-350mt-LED",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-350mt-LED",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-250mt-LED",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-250mt-LED",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "mitigation_cb2024-400mt-LED",
+    "variants": [
+      {
+        "name": "mitigation_cb2024-400mt-LED",
+        "specs": null
+      }
+    ]
   }
 ]
