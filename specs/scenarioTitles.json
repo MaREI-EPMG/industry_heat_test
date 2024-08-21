@@ -15,8 +15,8 @@
   "mitigation_cb2024-400mt-myopic": "Mitigation 400 mt -myopic",
   "mitigation_cb2024-350mt-myopic": "Mitigation 350 mt -myopic",
   "mitigation_cb2024-250mt-myopic": "Mitigation 250 mt -myopic",
-  "mitigation_cb2024-300mt-LED": "Mitigation 300 mt -LED",
-  "mitigation_cb2024-400mt-LED": "Mitigation 400 mt -LED",
-  "mitigation_cb2024-350mt-LED": "Mitigation 350 mt -LED",
-  "mitigation_cb2024-250mt-LED": "Mitigation 250 mt -LED"
+  "mitigation_cb2024-300mt-led": "Mitigation 300 mt -LED",
+  "mitigation_cb2024-400mt-led": "Mitigation 400 mt -LED",
+  "mitigation_cb2024-350mt-led": "Mitigation 350 mt -LED",
+  "mitigation_cb2024-250mt-led": "Mitigation 250 mt -LED"
 }
