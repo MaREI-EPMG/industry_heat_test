@@ -1,0 +1,14 @@
+{
+  "name": "mitigation_cb2024-350mt-wam",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-HTRUCK",
+      "seriesValues": [
+        [
+          2026,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

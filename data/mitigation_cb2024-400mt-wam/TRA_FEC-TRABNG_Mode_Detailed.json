@@ -1,0 +1,14 @@
+{
+  "name": "mitigation_cb2024-400mt-wam",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-P-CAR",
+      "seriesValues": [
+        [
+          2046,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

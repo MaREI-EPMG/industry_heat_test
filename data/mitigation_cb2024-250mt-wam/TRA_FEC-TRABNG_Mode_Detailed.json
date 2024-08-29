@@ -1,0 +1,22 @@
+{
+  "name": "mitigation_cb2024-250mt-wam",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-P-BUS",
+      "seriesValues": [
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
