@@ -1,0 +1,18 @@
+{
+  "name": "carbon-budget-300mt-bau-new",
+  "data": [
+    {
+      "seriesName": "PWR-GAS",
+      "seriesValues": [
+        [
+          2020,
+          0.061905522387687
+        ],
+        [
+          2021,
+          0.8204082057531792
+        ]
+      ]
+    }
+  ]
+}

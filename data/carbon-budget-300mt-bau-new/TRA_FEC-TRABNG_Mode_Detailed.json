@@ -1,0 +1,22 @@
+{
+  "name": "carbon-budget-300mt-bau-new",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-HTRUCK",
+      "seriesValues": [
+        [
+          2028,
+          0.341358489713214
+        ],
+        [
+          2029,
+          0.350130543298192
+        ],
+        [
+          2030,
+          0.344446985218888
+        ]
+      ]
+    }
+  ]
+}
