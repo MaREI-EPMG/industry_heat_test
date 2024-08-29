@@ -36,10 +36,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-250mt-bau-new",
+    "name": "carbon-budget-250mt-bau-new",
     "variants": [
       {
-        "name": "mitigation_cb2024-250mt-bau-new",
+        "name": "carbon-budget-250mt-bau-new",
         "specs": null
       }
     ]
@@ -90,10 +90,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-300mt-bau-new",
+    "name": "carbon-budget-300mt-bau-new",
     "variants": [
       {
-        "name": "mitigation_cb2024-300mt-bau-new",
+        "name": "carbon-budget-300mt-bau-new",
         "specs": null
       }
     ]
@@ -144,10 +144,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-350mt-bau-new",
+    "name": "carbon-budget-350mt-bau-new",
     "variants": [
       {
-        "name": "mitigation_cb2024-350mt-bau-new",
+        "name": "carbon-budget-350mt-bau-new",
         "specs": null
       }
     ]
@@ -198,10 +198,10 @@
     ]
   },
   {
-    "name": "mitigation_cb2024-400mt-bau-new",
+    "name": "carbon-budget-400mt-bau-new",
     "variants": [
       {
-        "name": "mitigation_cb2024-400mt-bau-new",
+        "name": "carbon-budget-400mt-bau-new",
         "specs": null
       }
     ]
