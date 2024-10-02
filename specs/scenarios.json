@@ -225,6 +225,24 @@
     ]
   },
   {
+    "name": "bau-wem-fx",
+    "variants": [
+      {
+        "name": "bau-wem-fx",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "bau-wam-fx",
+    "variants": [
+      {
+        "name": "bau-wam-fx",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "mitigation_cb2024-450mt-wam",
     "variants": [
       {
