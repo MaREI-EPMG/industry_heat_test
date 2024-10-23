@@ -225,6 +225,24 @@
     ]
   },
   {
+    "name": "bau",
+    "variants": [
+      {
+        "name": "bau",
+        "specs": null
+      }
+    ]
+  },
+  {
+    "name": "bau2100",
+    "variants": [
+      {
+        "name": "bau2100",
+        "specs": null
+      }
+    ]
+  },
+  {
     "name": "bau-wem-fx",
     "variants": [
       {
